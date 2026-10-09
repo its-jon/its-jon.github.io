@@ -13,14 +13,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Op-Eds"
-    url: /op-eds/
-
   - title: "Articles"
-    url: /articles/
-
-  - title: "Talks"
-    url: /talks/
+    url: /Articles/
 
   - title: "Mentorship"
     url: /teaching/
@@ -28,8 +22,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Op-Eds"
+    url: /op-eds/
 
   - title: "CV"
     url: /cv/
