@@ -442,3 +442,9 @@
     }
   }
 }
+/* Tipografía de los enlaces del menú superior */
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 700;
+}
