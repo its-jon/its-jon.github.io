@@ -1,17 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+About Me
+======
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am an interdisciplinary professional whose work lies at the intersection of law, economics, finance, accounting, and public policy.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I hold a degree in Law, earned with academic distinction, as well as bachelor's degrees in Business Administration, with a concentration in Finance, and Accounting. My academic background also encompasses taxation and cross-border fiscal matters, complemented by advanced coursework in behavioral economics, macroeconomics, international law, and public policy.
 
-A data-driven personal website
+My research interests focus on the relationship between legal institutions, economic incentives, financial systems, and public policy. I am particularly interested in economic theory, taxation, and the ways in which fiscal and monetary policy frameworks shape economic outcomes. Since an early age, I have been drawn to free-market economics and the intellectual traditions of classical liberalism and libertarian thought. These traditions continue to inform my interest in how market-oriented institutions, economic freedom, and institutional quality influence national prosperity and human welfare.
+
+My recent and ongoing research includes “Macroeconomic Effects of Fiscal Consolidation and Monetary Stabilization: Evidence from Argentina, 2023–2025”; “The Invisible Hand, 250 Years Later: The Visible Hand of Freedom — Adam Smith, the Enlightenment, and the Prosperity of Nations in the 21st Century”; and “Economic Freedom and Its Relationship with the Welfare, Prosperity, and Wealth of Nations in the 21st Century: A Global Analysis.”
+
+Beyond my research, I have supported students across disciplines through mentorship and academic guidance, contributing to their intellectual growth and professional development. I am fluent in Spanish, Italian, and English.
+
+Research & Academic Work
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
