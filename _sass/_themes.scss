@@ -2,6 +2,7 @@
    SHARED THEME SETTINGS
    ========================================================================== */
 
+
 /* ==========================================================================
    TYPOGRAPHY
    ========================================================================== */
@@ -9,18 +10,23 @@
 /* Used to set the size for <em> */
 $doc-font-size              : 16;
 
-/* Paragraph indention */
+/* Paragraph indentation */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
+
+/* ==========================================================================
+   FONT FAMILIES — JETBRAINS MONO
+   ========================================================================== */
+
 /* System typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : "JetBrains Mono", monospace;
+$monospace                  : "JetBrains Mono", monospace;
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : "JetBrains Mono", monospace;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,7 +35,11 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-/* Type scale */
+
+/* ==========================================================================
+   TYPE SCALE
+   ========================================================================== */
+
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px
 $type-size-3                : 1.563em;  // ~25.008px
@@ -39,12 +49,18 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
 
 /* ==========================================================================
-   Breakpoints
+   GLOBAL TYPOGRAPHY
+   ========================================================================== */
+
+$global-font-family         : "JetBrains Mono", monospace;
+$header-font-family         : "JetBrains Mono", monospace;
+$caption-font-family        : "JetBrains Mono", monospace;
+
+
+/* ==========================================================================
+   BREAKPOINTS
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
@@ -55,8 +71,9 @@ $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
 
+
 /* ==========================================================================
-   Grid
+   GRID
    ========================================================================== */
 
 $right-sidebar-width-narrow : auto;
@@ -73,6 +90,7 @@ $susy: (
     container: $large,
     global-box-sizing: border-box,
 );
+
 
 /* ==========================================================================
    BRAND COLORS
@@ -91,7 +109,7 @@ $lastfm-color               : #d51007;
 $linkedin-color             : #007bb6;
 $mastodon-color             : #6364ff;
 $orcid-color                : #a6ce39;
-$pinterest-color            : #cb2027;
+$pinterest-color             : #cb2027;
 $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
@@ -101,4 +119,3 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
