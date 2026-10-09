@@ -22,9 +22,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Op-Eds"
-    url: /op-eds/
-
   - title: "CV"
     url: /cv/
     
