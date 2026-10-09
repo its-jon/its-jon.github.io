@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+Bachelor of Laws (LL.B.), Universidad Autónoma de Chihuahua (UACH), 2026 
+Bachelor of Business Administration (BBA), Major in Finance, Universidad Tecmilenio, 2019
+Bachelor of Accounting (BAcc), Major in Taxation, Instituto Politécnico Nacional (IPN), 2017
 
 Work experience
 ======
