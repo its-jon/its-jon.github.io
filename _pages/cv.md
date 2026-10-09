@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-Bachelor of Laws (LL.B.), Universidad Autónoma de Chihuahua (UACH), 2026 
-Bachelor of Business Administration (BBA), Major in Finance, Universidad Tecmilenio, 2019
-Bachelor of Accounting (BAcc), Major in Taxation, Instituto Politécnico Nacional (IPN), 2017
+ * Bachelor of Laws (LL.B.), Universidad Autónoma de Chihuahua (UACH), 2026 
+ * Bachelor of Business Administration (BBA), Major in Finance, Universidad Tecmilenio, 2019
+ * Bachelor of Accounting (BAcc), Major in Taxation, Instituto Politécnico Nacional (IPN), 2017
 
 Work experience
 ======
