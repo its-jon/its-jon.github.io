@@ -8,21 +8,29 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+# Navigation menu for the website
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Op-Eds"
+    url: /op-eds/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
+  - title: "Articles"
+    url: /articles/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Mentorship"
+    url: /teaching/
+
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
+
+  - title: "Blog"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
     
