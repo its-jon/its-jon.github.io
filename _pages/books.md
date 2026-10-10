@@ -4,49 +4,45 @@ A personal reading list on economics, liberty, political philosophy, and the hum
 
 <style> .book-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin: 36px 0; }
 
-.book { position: relative; min-width: 0; padding: 25px 23px 22px; border: 1px solid #e5e1d9; border-radius: 5px; background: #fff; transition: border-color 0.2s ease, transform 0.2s ease; }
+.book { min-width: 0; padding: 24px 22px 20px; border: 1px solid #e5e1d9; border-radius: 4px; background: transparent; transition: border-color 0.2s ease; font-family: "JetBrains Mono", monospace; }
 
-.book:hover { border-color: #aaa18f; transform: translateY(-2px); }
+.book:hover { border-color: #aaa18f; }
 
 .book-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 24px; }
 
-.book-number { font-family: Georgia, serif; font-size: 2rem; line-height: 1; color: #a69a84; }
+.book-number { font-family: "JetBrains Mono", monospace; font-size: 1.65rem; font-weight: 400; line-height: 1; color: #a69a84; }
 
-.book .category { margin: 0; font-size: 0.65rem; letter-spacing: 0.12em; line-height: 1.5; text-transform: uppercase; text-align: right; color: #817766; }
+.book .category { margin: 0; font-size: 0.62rem; letter-spacing: 0.06em; line-height: 1.6; text-transform: uppercase; text-align: right; color: #817766; }
 
-.book h3 { margin: 0 0 9px; font-family: Georgia, "Times New Roman", serif; font-size: 1.25rem; line-height: 1.35; font-weight: 500; color: #292820; }
+.book h3 { margin: 0 0 10px; font-family: "JetBrains Mono", monospace; font-size: 1rem; line-height: 1.7; font-weight: 600; color: inherit; }
 
-.book .author { margin: 0 0 17px; font-size: 0.88rem; font-weight: 600; color: #555148; }
+.book .author { margin: 0 0 16px; font-family: "JetBrains Mono", monospace; font-size: 0.78rem; line-height: 1.7; font-weight: 600; color: inherit; opacity: 0.8; }
 
-.book .description { margin: 0; font-size: 0.9rem; line-height: 1.75; color: #625f58; }
+.book .description { margin: 0; font-family: "JetBrains Mono", monospace; font-size: 0.75rem; line-height: 1.9; color: inherit; opacity: 0.8; }
 
-.book .book-link { display: inline-block; margin-top: 22px; padding-top: 12px; border-top: 1px solid #e9e5de; font-size: 0.78rem; letter-spacing: 0.025em; color: #74664e; text-decoration: none; }
+.book .book-link { display: inline-block; margin-top: 22px; padding-top: 12px; border-top: 1px solid #e5e1d9; font-family: "JetBrains Mono", monospace; font-size: 0.7rem; line-height: 1.7; text-decoration: none; color: inherit; opacity: 0.8; }
 
-.book .book-link:hover { color: #292820; text-decoration: underline; }
+.book .book-link:hover { opacity: 1; text-decoration: underline; }
 
-.books-note { margin-top: 30px; padding-top: 16px; border-top: 1px solid #e5e1d9; font-size: 0.8rem; line-height: 1.7; color: #77736b; }
+.books-note { margin-top: 30px; padding-top: 16px; border-top: 1px solid #e5e1d9; font-family: "JetBrains Mono", monospace; font-size: 0.68rem; line-height: 1.9; opacity: 0.7; }
 
-@media (prefers-color-scheme: dark) { .book { background: #242424; border-color: #45433e; }
+@media (prefers-color-scheme: dark) { .book { border-color: #45433e; }
 
 .book:hover { border-color: #817766; }
 
-.book h3 { color: #eee9df; }
-
-.book .author { color: #d0c9bc; }
-
-.book .description { color: #c1bdb4; }
-
-.book .category, .book .book-link, .book-number, .books-note { color: #b7a88e; }
+.book-number, .book .category { color: #b7a88e; }
 
 .book .book-link, .books-note { border-color: #45433e; } }
 
 @media (max-width: 600px) { .book-grid { grid-template-columns: 1fr; gap: 16px; margin-top: 26px; }
 
-.book { padding: 21px 20px; }
+.book { padding: 21px 19px; }
 
-.book-top { margin-bottom: 17px; }
+.book-top { margin-bottom: 18px; }
 
-.book h3 { font-size: 1.2rem; } } </style>
+.book h3 { font-size: 0.95rem; }
+
+.book .description { font-size: 0.72rem; } } </style>
 
 <div class="book-grid">
 
@@ -72,4 +68,4 @@ A personal reading list on economics, liberty, political philosophy, and the hum
 
 </div>
 
-<p class="books-note"> This is a personal reading list. Book descriptions are provided for informational purposes. Links direct readers to external book catalogues. </p>
+<p class="books-note"> A personal reading list on economics, liberty, and political philosophy. Links direct readers to external book catalogues. </p>
