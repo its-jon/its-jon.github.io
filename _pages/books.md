@@ -101,7 +101,7 @@ A personal reading list on economics, liberty, political philosophy, and the hum
      loading="lazy">
     </a>
     <p class="category">Economics</p>
-    <h3>02. Human Action</h3>
+    <h3>02. Human Action (The Scholar’s Edition (2010)</h3>
     <p class="author">Ludwig von Mises</p>
     <p>A comprehensive treatise on human action, economic reasoning, and the foundations of Austrian economics.</p>
     <a class="book-link" href="https://openlibrary.org/search?q=Human+Action+Ludwig+von+Mises">Explore book ↗</a>
