@@ -53,6 +53,17 @@ A selection of essays, articles, and opinion pieces on political economy, social
 
 <a class="essay-link" href="https://mises.org/mises-wire/trap-class-consciousness" target="_blank" rel="noopener noreferrer">Read original essay ↗</a> </article>
 
+<article class="essay"> <div class="essay-top"> <span class="essay-number">02</span> <p class="category">Political Economy · History</p> </div>
+
+<h3>The Silent Theft: How Castro’s Regime Stole Aurelio Baldor’s Life, Work, and Legacy</h3>
+
+<p class="publication">Jonathan Simon P. · Mises Institute · Mises Wire</p>
+
+<p class="description">The story of Cuban mathematician Aurelio Baldor and the confiscation of his property and the appropriation of his intellectual legacy under Castro’s regime. The essay explores the relationship between private property, individual liberty, and political power.</p>
+
+<a class="essay-link" href="https://mises.org/mises-wire/silent-theft-how-castros-regime-stole-aurelio-baldors-life-work-and-legacy" target="_blank" rel="noopener noreferrer">Read original essay ↗</a> </article>
+
 </div>
 
-<p class="essays-note">Selected writing beyond formal academic publications.</p> 
+<p class="essays-note">Selected writing beyond formal academic publications.</p>
+
