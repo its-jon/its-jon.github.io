@@ -91,7 +91,8 @@ redirect_from:
 
 <div class="interest-grid">
 
-<article class="interest-item"> <span class="interest-number">01</span> <h3>Economics & Political Economy</h3> <p>Economic theory, Austrian economics, classical liberalism, institutional economics, economic development, market processes, and the prosperity of nations.</p> </article>
+<article class="interest-item"> <span class="interest-number">01</span> <h3>Economic Theory, Political Economy, and Institutional Analysis
+</h3> <p>Economic theory, political economy, Austrian and Chicago schools of economics, classical liberalism, public choice, institutional economics, constitutional political economy, economic development, market processes, and the institutional foundations of national prosperity.</p> </article>
 
 <article class="interest-item"> <span class="interest-number">02</span> <h3>Macroeconomics & Monetary Policy</h3> <p>Macroeconomic stabilization, inflation, monetary institutions, fiscal consolidation, central banking, business cycles, and monetary frameworks.</p> </article>
 
