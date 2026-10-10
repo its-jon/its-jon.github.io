@@ -5,8 +5,6 @@ permalink: /books/
 author_profile: false
 ---
 
-title: "10 Books to Read" layout: single permalink: /books/ author_profile: false
-
 A personal reading list on economics, liberty, political philosophy, and the human condition.
 
 <style> .book-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin: 36px 0; }
