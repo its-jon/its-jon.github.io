@@ -5,8 +5,6 @@ permalink: /books/
 author_profile: false
 ---
 
-# 10 Books to Read
-
 *Ten books that are worth your time.*
 
 <div class="book-grid">
