@@ -1,3 +1,10 @@
+---
+title: "10 Books to Read"
+layout: single
+permalink: /books/
+author_profile: false
+---
+
 title: "10 Books to Read" layout: single permalink: /books/ author_profile: false
 
 A personal reading list on economics, liberty, political philosophy, and the human condition.
