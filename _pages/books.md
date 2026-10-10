@@ -95,7 +95,7 @@ A personal reading list on economics, liberty, political philosophy, and the hum
 
   <article class="book">
     <a href="https://openlibrary.org/search?q=Human+Action+Ludwig+von+Mises">
-      <img <img src="https://covers.openlibrary.org/b/isbn/9780865976313-L.jpg"
+      <img src="https://covers.openlibrary.org/b/isbn/9781933550093-L.jpg"
            alt="Human Action by Ludwig von Mises"
            loading="lazy">
     </a>
