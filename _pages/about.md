@@ -97,7 +97,7 @@ redirect_from:
 
 <article class="interest-item"> <span class="interest-number">03</span> <h3>Public Finance & Taxation</h3> <p>Tax policy, public expenditure, fiscal sustainability, fiscal federalism, international taxation, cross-border taxation, and tax institutions.</p> </article>
 
-<article class="interest-item"> <span class="interest-number">04</span> <h3>Law & Institutions</h3> <p>Constitutional law, international law, corporative law, arbitration and dispute resolution, property rights, the rule of law, institutional quality, regulatory frameworks, and legal institutions.</p> </article>
+<article class="interest-item"> <span class="interest-number">04</span> <h3>Law & Institutions</h3> <p>Constitutional law, international law, corporative law, arbitration and dispute resolution, property rights, institutional quality, regulatory frameworks, and legal institutions.</p> </article>
 
 <article class="interest-item"> <span class="interest-number">05</span> <h3>Finance & Accounting</h3> <p>Financial systems, corporate finance, financial reporting, accounting standards, financial analysis, and the relationship between financial institutions and economic activity.</p> </article>
 
