@@ -7,7 +7,7 @@ author_profile: true
 
 A selection of essays, articles, and opinion pieces on political economy, social theory, and individual liberty.
 
-<style> .essay-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin: 36px 0; }
+<style> .essay-grid { display: grid; grid-template-columns: 1fr; gap: 22px; margin: 36px 0; }
 
 .essay { min-width: 0; padding: 24px 22px 20px; border: 1px solid #e5e1d9; border-radius: 4px; background: transparent; transition: border-color 0.2s ease; font-family: "JetBrains Mono", monospace; }
 
@@ -31,7 +31,7 @@ A selection of essays, articles, and opinion pieces on political economy, social
 
 .essays-note { margin-top: 30px; padding-top: 16px; border-top: 1px solid #e5e1d9; font-family: "JetBrains Mono", monospace; font-size: 0.68rem; line-height: 1.9; opacity: 0.7; }
 
-@media (max-width: 600px) { .essay-grid { grid-template-columns: 1fr; gap: 16px; margin-top: 26px; }
+@media (max-width: 600px) { .essay-grid { gap: 16px; margin-top: 26px; }
 
 .essay { padding: 21px 19px; }
 
@@ -49,10 +49,10 @@ A selection of essays, articles, and opinion pieces on political economy, social
 
 <p class="publication">Jonathan Simon P. · Mises Institute · Mises Wire</p>
 
-<p class="description">An exploration of class consciousness through the lens of political economy and social theory.</p>
+<p class="description">An essay exploring class consciousness through the lens of political economy and social theory.</p>
 
 <a class="essay-link" href="https://mises.org/mises-wire/trap-class-consciousness" target="_blank" rel="noopener noreferrer">Read original essay ↗</a> </article>
 
 </div>
 
-<p class="essays-note">Selected writing beyond formal academic publications.</p>
+<p class="essays-note">Selected writing beyond formal academic publications.</p> 
