@@ -1,220 +1,75 @@
----
-title: "10 Books to Read"
-layout: single
-permalink: /books/
-author_profile: false
----
+title: "10 Books to Read" layout: single permalink: /books/ author_profile: false
 
 A personal reading list on economics, liberty, political philosophy, and the human condition.
 
-<style>
-.book-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
-  gap: 32px 26px;
-  margin: 32px 0;
-}
+<style> .book-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin: 36px 0; }
 
-.book {
-  min-width: 0;
-}
+.book { position: relative; min-width: 0; padding: 25px 23px 22px; border: 1px solid #e5e1d9; border-radius: 5px; background: #fff; transition: border-color 0.2s ease, transform 0.2s ease; }
 
-.book img {
-  display: block;
-  width: 100%;
-  max-width: 210px;
-  height: 270px;
-  object-fit: contain;
-  object-position: left center;
-  margin-bottom: 16px;
-}
+.book:hover { border-color: #aaa18f; transform: translateY(-2px); }
 
-.book h3 {
-  font-size: 1.05em;
-  line-height: 1.4;
-  margin: 8px 0;
-}
+.book-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 24px; }
 
-.book p {
-  font-size: 0.9em;
-  line-height: 1.6;
-  margin: 6px 0;
-}
+.book-number { font-family: Georgia, serif; font-size: 2rem; line-height: 1; color: #a69a84; }
 
-.book .author {
-  font-weight: 600;
-}
+.book .category { margin: 0; font-size: 0.65rem; letter-spacing: 0.12em; line-height: 1.5; text-transform: uppercase; text-align: right; color: #817766; }
 
-.book .category {
-  font-size: 0.7em;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  opacity: 0.7;
-}
+.book h3 { margin: 0 0 9px; font-family: Georgia, "Times New Roman", serif; font-size: 1.25rem; line-height: 1.35; font-weight: 500; color: #292820; }
 
-.book .book-link {
-  display: inline-block;
-  margin-top: 10px;
-  font-size: 0.85em;
-}
+.book .author { margin: 0 0 17px; font-size: 0.88rem; font-weight: 600; color: #555148; }
 
-.book a {
-  text-decoration: none;
-}
+.book .description { margin: 0; font-size: 0.9rem; line-height: 1.75; color: #625f58; }
 
-.book a:hover {
-  text-decoration: underline;
-}
+.book .book-link { display: inline-block; margin-top: 22px; padding-top: 12px; border-top: 1px solid #e9e5de; font-size: 0.78rem; letter-spacing: 0.025em; color: #74664e; text-decoration: none; }
 
-@media (max-width: 480px) {
-  .book-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 26px 18px;
-  }
+.book .book-link:hover { color: #292820; text-decoration: underline; }
 
-  .book img {
-    height: 220px;
-  }
-}
-</style>
+.books-note { margin-top: 30px; padding-top: 16px; border-top: 1px solid #e5e1d9; font-size: 0.8rem; line-height: 1.7; color: #77736b; }
+
+@media (prefers-color-scheme: dark) { .book { background: #242424; border-color: #45433e; }
+
+.book:hover { border-color: #817766; }
+
+.book h3 { color: #eee9df; }
+
+.book .author { color: #d0c9bc; }
+
+.book .description { color: #c1bdb4; }
+
+.book .category, .book .book-link, .book-number, .books-note { color: #b7a88e; }
+
+.book .book-link, .books-note { border-color: #45433e; } }
+
+@media (max-width: 600px) { .book-grid { grid-template-columns: 1fr; gap: 16px; margin-top: 26px; }
+
+.book { padding: 21px 20px; }
+
+.book-top { margin-bottom: 17px; }
+
+.book h3 { font-size: 1.2rem; } } </style>
 
 <div class="book-grid">
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=The+Road+to+Serfdom+Hayek">
-      <img src="https://covers.openlibrary.org/b/isbn/9780226320557-L.jpg"
-           alt="The Road to Serfdom by Friedrich A. Hayek"
-           loading="lazy">
-    </a>
-    <p class="category">Political Philosophy</p>
-    <h3>01. The Road to Serfdom</h3>
-    <p class="author">Friedrich A. Hayek</p>
-    <p>An influential argument about centralized planning, political power, and the preservation of individual freedom.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=The+Road+to+Serfdom+Hayek">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">01</span> <p class="category">Political Philosophy</p> </div> <h3>The Road to Serfdom</h3> <p class="author">Friedrich A. Hayek</p> <p class="description">An influential argument about centralized planning, political power, and the preservation of individual freedom.</p> <a class="book-link" href="https://openlibrary.org/search?q=The+Road+to+Serfdom+Hayek">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=Human+Action+Ludwig+von+Mises">
-     HTML
-<img src="https://covers.openlibrary.org/b/olid/OL30689920M-L.jpg"
-     alt="Human Action by Ludwig von Mises"
-     loading="lazy">
-    </a>
-    <p class="category">Economics</p>
-    <h3>02. Human Action (The Scholar’s Edition (2010)</h3>
-    <p class="author">Ludwig von Mises</p>
-    <p>A comprehensive treatise on human action, economic reasoning, and the foundations of Austrian economics.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=Human+Action+Ludwig+von+Mises">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">02</span> <p class="category">Economics</p> </div> <h3>Human Action</h3> <p class="author">Ludwig von Mises</p> <p class="description">A comprehensive treatise on human action, economic reasoning, and the foundations of Austrian economics.</p> <a class="book-link" href="https://openlibrary.org/books/OL30689920M">Explore edition ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=Man+Economy+and+State+Rothbard">
-      <img src="https://covers.openlibrary.org/b/isbn/9781479269712-L.jpg"
-           alt="Man, Economy, and State by Murray Rothbard"
-           loading="lazy">
-    </a>
-    <p class="category">Austrian Economics</p>
-    <h3>03. Man, Economy, and State</h3>
-    <p class="author">Murray N. Rothbard</p>
-    <p>A detailed examination of economic theory, voluntary exchange, and the role of government in society.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=Man+Economy+and+State+Rothbard">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">03</span> <p class="category">Austrian Economics</p> </div> <h3>Man, Economy, and State</h3> <p class="author">Murray N. Rothbard</p> <p class="description">A detailed examination of economic theory, voluntary exchange, and the role of government in society.</p> <a class="book-link" href="https://openlibrary.org/search?q=Man+Economy+and+State+Rothbard">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=Capitalism+and+Freedom+Milton+Friedman">
-      <img src="https://covers.openlibrary.org/b/isbn/9780226264219-L.jpg"
-           alt="Capitalism and Freedom by Milton Friedman"
-           loading="lazy">
-    </a>
-    <p class="category">Political Economy</p>
-    <h3>04. Capitalism and Freedom</h3>
-    <p class="author">Milton Friedman</p>
-    <p>A defense of competitive markets and the connection between economic and political freedom.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=Capitalism+and+Freedom+Milton+Friedman">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">04</span> <p class="category">Political Economy</p> </div> <h3>Capitalism and Freedom</h3> <p class="author">Milton Friedman</p> <p class="description">A defense of competitive markets and the connection between economic and political freedom.</p> <a class="book-link" href="https://openlibrary.org/search?q=Capitalism+and+Freedom+Milton+Friedman">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=Basic+Economics+Thomas+Sowell">
-      <img src="https://covers.openlibrary.org/b/isbn/9780465060733-L.jpg"
-           alt="Basic Economics by Thomas Sowell"
-           loading="lazy">
-    </a>
-    <p class="category">Economics</p>
-    <h3>05. Basic Economics</h3>
-    <p class="author">Thomas Sowell</p>
-    <p>An accessible introduction to prices, incentives, trade-offs, and the often-unintended consequences of economic policy.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=Basic+Economics+Thomas+Sowell">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">05</span> <p class="category">Economics</p> </div> <h3>Basic Economics</h3> <p class="author">Thomas Sowell</p> <p class="description">An accessible introduction to prices, incentives, trade-offs, and the often-unintended consequences of economic policy.</p> <a class="book-link" href="https://openlibrary.org/search?q=Basic+Economics+Thomas+Sowell">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=Knowledge+and+Decisions+Thomas+Sowell">
-      <img src="https://covers.openlibrary.org/b/isbn/9780465037384-L.jpg"
-           alt="Knowledge and Decisions by Thomas Sowell"
-           loading="lazy">
-    </a>
-    <p class="category">Social Science</p>
-    <h3>06. Knowledge and Decisions</h3>
-    <p class="author">Thomas Sowell</p>
-    <p>An exploration of how information, incentives, and institutions shape decisions across society.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=Knowledge+and+Decisions+Thomas+Sowell">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">06</span> <p class="category">Social Science</p> </div> <h3>Knowledge and Decisions</h3> <p class="author">Thomas Sowell</p> <p class="description">An exploration of how information, incentives, and institutions shape decisions across society.</p> <a class="book-link" href="https://openlibrary.org/search?q=Knowledge+and+Decisions+Thomas+Sowell">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=The+Law+Frederic+Bastiat">
-      <img src="https://covers.openlibrary.org/b/title/The%20Law%20Fr%C3%A9d%C3%A9ric%20Bastiat-L.jpg"
-           alt="The Law by Frédéric Bastiat"
-           loading="lazy">
-    </a>
-    <p class="category">Classical Liberalism</p>
-    <h3>07. The Law</h3>
-    <p class="author">Frédéric Bastiat</p>
-    <p>A concise essay on individual rights, property, justice, and the legitimate limits of government.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=The+Law+Frederic+Bastiat">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">07</span> <p class="category">Classical Liberalism</p> </div> <h3>The Law</h3> <p class="author">Frédéric Bastiat</p> <p class="description">A concise essay on individual rights, property, justice, and the legitimate limits of government.</p> <a class="book-link" href="https://openlibrary.org/search?q=The+Law+Frederic+Bastiat">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=On+Liberty+John+Stuart+Mill">
-      <img src="https://covers.openlibrary.org/b/title/On%20Liberty%20John%20Stuart%20Mill-L.jpg"
-           alt="On Liberty by John Stuart Mill"
-           loading="lazy">
-    </a>
-    <p class="category">Political Philosophy</p>
-    <h3>08. On Liberty</h3>
-    <p class="author">John Stuart Mill</p>
-    <p>A foundational work on freedom of thought, freedom of expression, and the limits of social authority.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=On+Liberty+John+Stuart+Mill">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">08</span> <p class="category">Political Philosophy</p> </div> <h3>On Liberty</h3> <p class="author">John Stuart Mill</p> <p class="description">A foundational work on freedom of thought, freedom of expression, and the limits of social authority.</p> <a class="book-link" href="https://openlibrary.org/search?q=On+Liberty+John+Stuart+Mill">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=The+Wealth+of+Nations+Adam+Smith">
-      <img src="https://covers.openlibrary.org/b/title/The%20Wealth%20of%20Nations%20Adam%20Smith-L.jpg"
-           alt="The Wealth of Nations by Adam Smith"
-           loading="lazy">
-    </a>
-    <p class="category">Classical Economics</p>
-    <h3>09. The Wealth of Nations</h3>
-    <p class="author">Adam Smith</p>
-    <p>A landmark study of specialization, exchange, markets, and the sources of national prosperity.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=The+Wealth+of+Nations+Adam+Smith">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">09</span> <p class="category">Classical Economics</p> </div> <h3>The Wealth of Nations</h3> <p class="author">Adam Smith</p> <p class="description">A landmark study of specialization, exchange, markets, and the sources of national prosperity.</p> <a class="book-link" href="https://openlibrary.org/search?q=The+Wealth+of+Nations+Adam+Smith">Explore book ↗</a> </article>
 
-  <article class="book">
-    <a href="https://openlibrary.org/search?q=Economic+Sophisms+Frederic+Bastiat">
-      <img src="https://covers.openlibrary.org/b/title/Economic%20Sophisms%20Bastiat-L.jpg"
-           alt="Economic Sophisms by Frédéric Bastiat"
-           loading="lazy">
-    </a>
-    <p class="category">Political Economy</p>
-    <h3>10. Economic Sophisms</h3>
-    <p class="author">Frédéric Bastiat</p>
-    <p>Sharp and accessible essays challenging protectionism and revealing the unseen costs of economic intervention.</p>
-    <a class="book-link" href="https://openlibrary.org/search?q=Economic+Sophisms+Frederic+Bastiat">Explore book ↗</a>
-  </article>
+<article class="book"> <div class="book-top"> <span class="book-number">10</span> <p class="category">Political Economy</p> </div> <h3>Economic Sophisms</h3> <p class="author">Frédéric Bastiat</p> <p class="description">Sharp and accessible essays challenging protectionism and revealing the unseen costs of economic intervention.</p> <a class="book-link" href="https://openlibrary.org/search?q=Economic+Sophisms+Frederic+Bastiat">Explore book ↗</a> </article>
 
 </div>
 
-<p style="font-size: 0.8em; opacity: 0.7;">
-  Book cover images via
-  <a href="https://openlibrary.org/">Open Library</a>.
-</p>
-```
+<p class="books-note"> This is a personal reading list. Book descriptions are provided for informational purposes. Links direct readers to external book catalogues. </p>
