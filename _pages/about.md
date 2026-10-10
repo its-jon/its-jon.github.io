@@ -94,7 +94,7 @@ redirect_from:
 <article class="interest-item"> <span class="interest-number">01</span> <h3>Economic Theory, Political Economy, and Institutional Analysis
 </h3> <p>Economic theory, political economy, Austrian and Chicago schools of economics, classical liberalism, public choice, institutional economics, constitutional political economy, economic development, market processes, and the institutional foundations of national prosperity.</p> </article>
 
-<article class="interest-item"> <span class="interest-number">02</span> <h3>Macroeconomics & Monetary Policy</h3> <p>Macroeconomic stabilization, inflation, monetary institutions, fiscal consolidation, central banking, business cycles, and monetary frameworks.</p> </article>
+<article class="interest-item"> <span class="interest-number">02</span> <h3>Macroeconomics, Monetary Theory & Policy</h3> <p>Macroeconomic theory, macroeconomic stabilization, inflation and price dynamics, monetary economics, monetary institutions, central banking, monetary policy frameworks, fiscal policy and fiscal consolidation, business cycles, financial stability, money and banking, interest rates, monetary regimes, international monetary systems, exchange rate regimes, sovereign debt, and the interaction between monetary and fiscal policy.</p> </article>
 
 <article class="interest-item"> <span class="interest-number">03</span> <h3>Public Finance & Taxation</h3> <p>Tax policy, public expenditure, fiscal sustainability, fiscal federalism, international taxation, cross-border taxation, and tax institutions.</p> </article>
 
