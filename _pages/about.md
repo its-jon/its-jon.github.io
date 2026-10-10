@@ -73,9 +73,9 @@ redirect_from:
 
 <p>I am an interdisciplinary professional whose academic background spans law, economics, finance, accounting, and public policy.</p>
 
-<p>I hold a degree in Law, earned with academic distinction, as well as bachelor's degrees in Business Administration, with a concentration in Finance, and Accounting. My academic training also encompasses taxation, cross-border fiscal matters, behavioral economics, macroeconomics, international law, and public policy.</p>
+<p>I hold a degree in Law, earned with academic distinction, a bachelor's degree in Business Administration with a concentration in Finance, and a bachelor's degree in Accounting with a concentration in Taxation. My academic training also encompasses public policy, international taxation, cross-border fiscal matters, behavioral economics, macroeconomics, and international law.</p>
 
-<p>My intellectual interests encompass economic theory, taxation, legal institutions, financial systems, and the interaction between fiscal and monetary policy. Drawn since an early age to free-market economics and the intellectual traditions of classical liberalism and libertarian thought, I am interested in the role of market institutions, economic freedom, and institutional quality in shaping national prosperity and human welfare.</p>
+<p>My intellectual interests encompass economic theory, taxation, law and legal institutions, financial systems, and the interaction between fiscal and monetary policy. Drawn since an early age to free-market economics and the intellectual traditions of classical liberalism and libertarian thought, I am interested in the role of market institutions, economic freedom, and institutional quality in shaping national prosperity and human welfare.</p>
 
 <p>Beyond my academic pursuits, I have supported students across disciplines through mentorship and academic guidance, contributing to their intellectual growth and professional development. I am fluent in Spanish, Italian, and English.</p>
 
