@@ -309,30 +309,6 @@ redirect_from:
 
 <div class="cv-page">
 
-  <header class="cv-hero">
-    <p class="cv-eyebrow">Curriculum Vitae / Academic Profile</p>
-
-    <h2>Jonathan</h2>
-
-    <p class="cv-tagline">
-      LAW · ECONOMICS · FINANCE · ACCOUNTING · PUBLIC POLICY
-    </p>
-
-    <p class="cv-intro">
-      An interdisciplinary professional working at the intersection
-      of law, economics, finance, accounting, and public policy.
-      Research interests include political economy, macroeconomic
-      policy, public finance, economic freedom, and the institutional
-      foundations of economic prosperity.
-    </p>
-
-    <div class="cv-meta">
-      <span>Academic Background</span>
-      <span>Research & Analysis</span>
-      <span>Spanish · Italian · English</span>
-    </div>
-  </header>
-
   <section class="cv-section">
     <h2 class="cv-heading">
       <span class="cv-number">01</span> Education
@@ -580,6 +556,44 @@ redirect_from:
       </p>
     </article>
   </section>
+
+  
+<section class="cv-section" id="cv-pdf">
+  <h2 class="cv-heading">
+    <span class="cv-number">10</span>
+    Curriculum Vitae — PDF
+  </h2>
+
+  <p class="cv-detail" style="margin-bottom: 18px;">
+    View or download the complete academic curriculum vitae.
+  </p>
+
+  <div style="border: 1px solid #e5e1d9; border-radius: 4px; overflow: hidden;">
+    <iframe
+      src="{{ base_path }}/files/Jonathan_CV.pdf"
+      title="Academic Curriculum Vitae"
+      width="100%"
+      height="800"
+      style="display: block; border: 0; background: #fff;"
+      loading="lazy">
+    </iframe>
+  </div>
+
+  <p style="margin-top: 18px;">
+    <a
+      href="{{ base_path }}/files/Jonathan_CV.pdf"
+      target="_blank"
+      rel="noopener noreferrer">
+      Open PDF in a new tab ↗
+    </a>
+    &nbsp; · &nbsp;
+    <a
+      href="{{ base_path }}/files/Jonathan_CV.pdf"
+      download>
+      Download CV ↓
+    </a>
+  </p>
+</section>
 
   <p class="cv-footer">
     Curriculum Vitae · Academic Profile · Last updated: 2026
