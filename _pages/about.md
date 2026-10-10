@@ -6,10 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-permalink: / title: "" authorprofile: true redirectfrom:
-
-/about/
-/about.html
 
 <style> .profile-card { margin: 28px 0 36px; padding: 28px 30px; border: 1px solid #e5e1d9; border-radius: 4px; background: transparent; font-family: "JetBrains Mono", monospace; }
 
