@@ -71,18 +71,22 @@ redirect_from:
 
 <p class="profile-subtitle">Law · Economics · Finance · Accounting · Public Policy</p>
 
-<p>I am an interdisciplinary professional whose work lies at the intersection of law, economics, finance, accounting, and public policy.</p>
+<p>I am an interdisciplinary professional whose academic background spans law, economics, finance, accounting, and public policy.</p>
 
-<p>I hold a degree in Law, earned with academic distinction, as well as bachelor's degrees in Business Administration, with a concentration in Finance, and Accounting. My academic background also encompasses taxation and cross-border fiscal matters, complemented by advanced coursework in behavioral economics, macroeconomics, international law, and public policy.</p>
+<p>I hold a degree in Law, earned with academic distinction, as well as bachelor's degrees in Business Administration, with a concentration in Finance, and Accounting. My academic training also encompasses taxation, cross-border fiscal matters, behavioral economics, macroeconomics, international law, and public policy.</p>
 
-<p>My research interests focus on the relationship between legal institutions, economic incentives, financial systems, and public policy. I am particularly interested in economic theory, taxation, and the ways in which fiscal and monetary policy frameworks shape economic outcomes. Since an early age, I have been drawn to free-market economics and the intellectual traditions of classical liberalism and libertarian thought. These traditions continue to inform my interest in how market-oriented institutions, economic freedom, and institutional quality influence national prosperity and human welfare.</p>
+<p>My intellectual interests encompass economic theory, taxation, legal institutions, financial systems, and the interaction between fiscal and monetary policy. Drawn since an early age to free-market economics and the intellectual traditions of classical liberalism and libertarian thought, I am interested in the role of market institutions, economic freedom, and institutional quality in shaping national prosperity and human welfare.</p>
 
-<p>My recent and ongoing research includes “Macroeconomic Effects of Fiscal Consolidation and Monetary Stabilization: Evidence from Argentina, 2023–2025”; “The Invisible Hand, 250 Years Later: The Visible Hand of Freedom — Adam Smith, the Enlightenment, and the Prosperity of Nations in the 21st Century”; and “Economic Freedom and Its Relationship with the Welfare, Prosperity, and Wealth of Nations in the 21st Century: A Global Analysis.”</p>
+<p>Beyond my academic pursuits, I have supported students across disciplines through mentorship and academic guidance, contributing to their intellectual growth and professional development. I am fluent in Spanish, Italian, and English.</p>
 
-<p>Beyond my research, I have supported students across disciplines through mentorship and academic guidance, contributing to their intellectual growth and professional development. I am fluent in Spanish, Italian, and English.</p>
-
-<div class="research-card"> <h3>Languages</h3> <div class="profile-languages"> <span class="profile-language">Spanish</span> <span class="profile-language">Italian</span> <span class="profile-language">English</span> </div> </div>
-
+<div class="research-card">
+  <h3>Languages</h3>
+  <div class="profile-languages">
+    <span class="profile-language">Spanish</span>
+    <span class="profile-language">Italian</span>
+    <span class="profile-language">English</span>
+  </div>
+</div>
 </div>
 
 <div class="profile-section">
