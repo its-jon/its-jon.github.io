@@ -67,7 +67,7 @@ redirect_from:
 
 <p class="profile-label">Professional Profile</p>
 
-<h2># Hi there, I'm Jonathan! 👋</h2>
+<h2>Hi there, I'm Jonathan! 👋</h2>
 
 <p class="profile-subtitle">Law · Economics · Finance · Accounting · Public Policy</p>
 
