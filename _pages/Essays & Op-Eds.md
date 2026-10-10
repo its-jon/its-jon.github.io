@@ -15,7 +15,7 @@ author_profile: true
 
 An essay exploring class consciousness through the lens of political economy and social theory.
 
-**Jonathan Simon** · Mises Institute · *Mises Wire*
+**Jonathan Simon P.** · Mises Institute · *Mises Wire*
 
 [Read the original essay ↗](https://mises.org/mises-wire/trap-class-consciousness)
 
