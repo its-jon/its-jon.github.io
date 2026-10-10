@@ -5,20 +5,54 @@ layout: archive
 author_profile: true
 ---
 
-*Selected essays, articles, and opinion pieces published in various outlets.*
+A selection of essays, articles, and opinion pieces on political economy, social theory, and individual liberty.
 
----
+<style> .essay-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin: 36px 0; }
 
-## Featured Essay
+.essay { min-width: 0; padding: 24px 22px 20px; border: 1px solid #e5e1d9; border-radius: 4px; background: transparent; transition: border-color 0.2s ease; font-family: "JetBrains Mono", monospace; }
 
-### The Trap of Class Consciousness
+.essay:hover { border-color: #aaa18f; }
 
-An essay exploring class consciousness through the lens of political economy and social theory.
+.essay-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 24px; }
 
-**Jonathan Simon P.** · Mises Institute · *Mises Wire*
+.essay-number { font-family: "JetBrains Mono", monospace; font-size: 1.65rem; font-weight: 400; line-height: 1; color: #a69a84; }
 
-[Read the original essay ↗](https://mises.org/mises-wire/trap-class-consciousness)
+.essay .category { margin: 0; font-size: 0.62rem; letter-spacing: 0.06em; line-height: 1.6; text-transform: uppercase; text-align: right; color: #817766; }
 
----
+.essay h3 { margin: 0 0 10px; font-family: "JetBrains Mono", monospace; font-size: 1rem; line-height: 1.7; font-weight: 600; color: inherit; }
 
-<small>Selected writing beyond formal academic publications.</small>
+.essay .publication { margin: 0 0 16px; font-family: "JetBrains Mono", monospace; font-size: 0.78rem; line-height: 1.7; font-weight: 600; color: inherit; opacity: 0.8; }
+
+.essay .description { margin: 0; font-family: "JetBrains Mono", monospace; font-size: 0.75rem; line-height: 1.9; color: inherit; opacity: 0.8; }
+
+.essay .essay-link { display: inline-block; margin-top: 22px; padding-top: 12px; border-top: 1px solid #e5e1d9; font-family: "JetBrains Mono", monospace; font-size: 0.7rem; line-height: 1.7; text-decoration: none; color: inherit; opacity: 0.8; }
+
+.essay .essay-link:hover { opacity: 1; text-decoration: underline; }
+
+.essays-note { margin-top: 30px; padding-top: 16px; border-top: 1px solid #e5e1d9; font-family: "JetBrains Mono", monospace; font-size: 0.68rem; line-height: 1.9; opacity: 0.7; }
+
+@media (max-width: 600px) { .essay-grid { grid-template-columns: 1fr; gap: 16px; margin-top: 26px; }
+
+.essay { padding: 21px 19px; }
+
+.essay-top { margin-bottom: 18px; }
+
+.essay h3 { font-size: 0.95rem; }
+
+.essay .description { font-size: 0.72rem; } } </style>
+
+<div class="essay-grid">
+
+<article class="essay"> <div class="essay-top"> <span class="essay-number">01</span> <p class="category">Political Economy</p> </div>
+
+<h3>The Trap of Class Consciousness</h3>
+
+<p class="publication">Jonathan Simon P. · Mises Institute · Mises Wire</p>
+
+<p class="description">An exploration of class consciousness through the lens of political economy and social theory.</p>
+
+<a class="essay-link" href="https://mises.org/mises-wire/trap-class-consciousness" target="_blank" rel="noopener noreferrer">Read original essay ↗</a> </article>
+
+</div>
+
+<p class="essays-note">Selected writing beyond formal academic publications.</p>
